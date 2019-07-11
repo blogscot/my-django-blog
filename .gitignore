@@ -1,6 +1,7 @@
 .vscode
 __pycache__
 venv
+virtualenv
 /static
 *.pyc
 db.sqlite3
